@@ -21,7 +21,7 @@
   <br />
 
   <a href="https://github.com/Gaurav-Vennamwar?tab=followers"><img src="https://img.shields.io/github/followers/Gaurav-Vennamwar?style=flat-square&label=Followers&labelColor=1A1320&color=EF93C4" alt="GitHub followers" /></a>
-  <a href="https://github.com/Gaurav-Vennamwar?tab=repositories"><img src="https://img.shields.io/badge/Focus-Secure%20full--stack%20systems-FF69B4?style=flat-square&labelColor=1A1320" alt="Focus: secure full-stack systems" /></a>
+
   <img src="https://komarev.com/ghpvc/?username=Gaurav-Vennamwar&style=flat-square&label=Profile+views&color=EF93C4" alt="Profile views" />
 
 </div>
