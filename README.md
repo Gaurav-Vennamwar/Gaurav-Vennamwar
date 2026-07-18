@@ -45,13 +45,47 @@ Right now, I’m building **SKMS** — a secure, enterprise-minded knowledge pla
 - **Learning by shipping:** EF Core, Angular signals, and modern patterns through real product work.
 </details>
 
-## Current build — SKMS
+## 🧠 Current Build — SKMS
 
 <table>
   <tr>
-    <td width="33%" align="center"><b>🔐 Identity first</b><br /><sub>JWT auth, refresh-token rotation, and role-based access control.</sub></td>
-    <td width="33%" align="center"><b>🏗️ Built to evolve</b><br /><sub>Clean architecture and maintainable boundaries from day one.</sub></td>
-    <td width="33%" align="center"><b>✍️ Knowledge, organised</b><br /><sub>An enterprise-grade platform for creating and managing content.</sub></td>
+    <td width="33%" align="center">
+      <b>🔐 Identity First</b><br />
+      <sub>JWT authentication, refresh-token rotation, and role-based authorization built for secure access.</sub>
+    </td>
+
+    <td width="33%" align="center">
+      <b>🏗️ Built to Scale</b><br />
+      <sub>Clean architecture, Entity Framework Core, and maintainable APIs designed for long-term growth.</sub>
+    </td>
+
+    <td width="33%" align="center">
+      <b>✍️ Knowledge Platform</b><br />
+      <sub>A production-ready knowledge management system with Markdown editor, syntax highlighting, and Cloudinary media support.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🤖 Currently Building — Ascendly AI
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>📄 Resume Intelligence</b><br />
+      <sub>AI-powered resume analysis with ATS optimization to improve interview readiness.</sub>
+    </td>
+
+    <td width="33%" align="center">
+      <b>🎯 Interview Preparation</b><br />
+      <sub>Mock interviews, personalized learning roadmaps, and AI-driven career guidance in one platform.</sub>
+    </td>
+
+    <td width="33%" align="center">
+      <b>🚀 Next-Gen Career Platform</b><br />
+      <sub>Building a modern SaaS application using Angular, ASP.NET Core, Azure SQL, AI integration, and cloud deployment.</sub>
+    </td>
   </tr>
 </table>
 
