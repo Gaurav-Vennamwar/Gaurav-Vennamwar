@@ -45,7 +45,10 @@ Right now, I’m building **SKMS** — a secure, enterprise-minded knowledge pla
 - **Learning by shipping:** EF Core, Angular signals, and modern patterns through real product work.
 </details>
 
-## 🧠 Current Build — SKMS
+## 🚀 Featured Projects
+
+### 🧠 Secure Knowledge Management System (LIVE)
+
 
 <table>
 <tr>
@@ -76,6 +79,8 @@ Production-ready knowledge management system with Markdown editor, syntax highli
 </table>
 
 <br/>
+
+### 🤖 Ascendly AI (In Development)
 
 <table>
 <tr>
