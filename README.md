@@ -104,18 +104,18 @@ Right now, I’m building **SKMS** — a secure, enterprise-minded knowledge pla
 ## Let’s connect
 
 <div align="center">
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-1A1320?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=black" alt="X"/></a>
+<a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+ 
+</div>
   <br />
   <br />
 
   <sub>Have an interesting backend, full-stack, or product problem? I’d love to hear about it.</sub>
 
-</div>
+
 
 <br />
 
