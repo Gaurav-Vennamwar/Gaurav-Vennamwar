@@ -48,45 +48,61 @@ Right now, I’m building **SKMS** — a secure, enterprise-minded knowledge pla
 ## 🧠 Current Build — SKMS
 
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <b>🔐 Identity First</b><br />
-      <sub>JWT authentication, refresh-token rotation, and role-based authorization built for secure access.</sub>
-    </td>
+<tr>
+<td width="33%" align="center">
 
-    <td width="33%" align="center">
-      <b>🏗️ Built to Scale</b><br />
-      <sub>Clean architecture, Entity Framework Core, and maintainable APIs designed for long-term growth.</sub>
-    </td>
+### 🔐 Identity First
 
-    <td width="33%" align="center">
-      <b>✍️ Knowledge Platform</b><br />
-      <sub>A production-ready knowledge management system with Markdown editor, syntax highlighting, and Cloudinary media support.</sub>
-    </td>
-  </tr>
+JWT authentication, refresh-token rotation, and role-based authorization built for secure access.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🏗️ Built to Scale
+
+Clean architecture, Entity Framework Core, and maintainable APIs designed for long-term growth.
+
+</td>
+
+<td width="33%" align="center">
+
+### ✍️ Knowledge Platform
+
+Production-ready knowledge management system with Markdown editor, syntax highlighting, and Cloudinary integration.
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## 🤖 Currently Building — Ascendly AI
-
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <b>📄 Resume Intelligence</b><br />
-      <sub>AI-powered resume analysis with ATS optimization to improve interview readiness.</sub>
-    </td>
+<tr>
+<td width="33%" align="center">
 
-    <td width="33%" align="center">
-      <b>🎯 Interview Preparation</b><br />
-      <sub>Mock interviews, personalized learning roadmaps, and AI-driven career guidance in one platform.</sub>
-    </td>
+### 📄 Resume Intelligence
 
-    <td width="33%" align="center">
-      <b>🚀 Next-Gen Career Platform</b><br />
-      <sub>Building a modern SaaS application using Angular, ASP.NET Core, Azure SQL, AI integration, and cloud deployment.</sub>
-    </td>
-  </tr>
+AI-powered resume analysis with ATS optimization to improve interview readiness.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎯 Interview Preparation
+
+Mock interviews, personalized learning roadmaps, and AI-powered career guidance.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚀 Next-Gen Career Platform
+
+Modern SaaS application built with Angular, ASP.NET Core, Azure SQL, AI integration, Render and Vercel.
+
+</td>
+</tr>
 </table>
 
 <div align="center">
