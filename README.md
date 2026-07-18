@@ -5,7 +5,11 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:120D18,45:36162E,100:EF93C4&height=170&section=header&text=Gaurav%20Vennamwar&fontSize=52&fontColor=FFFFFF&fontAlignY=43&desc=Full-stack%20developer%20%7C%20building%20secure%2C%20useful%20software&descAlignY=64&descSize=17&animation=fadeIn" width="100%" alt="Gaurav Vennamwar — Full-stack developer" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="art/header-light.png">
+  <img alt="Gaurav Vennamwar banner" src="art/header-dark.png" width="100%">
+</picture>
 
   <br />
 
